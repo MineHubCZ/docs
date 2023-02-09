@@ -1,5 +1,5 @@
 [book]
-authors = [MineHub CVT]
+authors = ["MineHub CVT"]
 language = "en"
 multilingual = false
 src = "src"
