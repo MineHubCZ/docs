@@ -1,9 +1,9 @@
 # Summary
 
-- [Mango](./mango/about.html)
-    - [Anout](./mango/about.md)
+- [Mango](./mango/about.md)
+    - [About](./mango/about.md)
     - [Installation](./mango/installation.md)
-    - [Api](./mango/api/all_services.html)
+    - [Api](./mango/api/all_services.md)
         - [All Services](./mango/api/all_services.md)
         - [Edit](./mango/api/edit.md)
 - [Prerequisites](./prerequisites/about.md)
